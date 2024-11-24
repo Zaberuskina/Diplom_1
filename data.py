@@ -1,0 +1,6 @@
+# data.py
+BUN_NAME = "test_bun"
+BUN_PRICE = 100
+INGREDIENT_NAME = "test_ingredient"
+INGREDIENT_PRICE = 50
+INGREDIENT_TYPE = "FILLING"
